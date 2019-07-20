@@ -1,5 +1,5 @@
 # VTKfile_to_STLfile
-you can convert VTKfile() to STLfile.
+you can convert VTKfile(.vtk) to STLfile(.stl).
 
 ======
 SOURCE README FOR SENSITIVE COUTURE
