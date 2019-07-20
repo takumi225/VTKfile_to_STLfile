@@ -1,10 +1,9 @@
 # VTKfile_to_STLfile
 you can convert VTKfile() to STLfile.
 
-================================================
+======
 SOURCE README FOR SENSITIVE COUTURE
 Takumi Noguchi (taku.2225@gmail.com)
-================================================
 
 
 LICENCE 
